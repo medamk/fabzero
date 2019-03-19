@@ -49,3 +49,6 @@ on 19th March 2019 10:00AM started the Session
 on 19th March 2019 03:00PM started the Session
 
 Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
+Precautions to be taken for inserting the role into the Cutter
+1. Put the role on the 
+![Roland](images/gs24demo2.jpg)
