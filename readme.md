@@ -24,4 +24,4 @@ on 19th March 2019 10:00AM started the Session
         3. Control + Shift + P  
         4. New address will open then type Git: Clone pate the clone address
 
-![] (images/Roland GS-24 Cutting Plotter.jpeg)
+![](images/Roland GS-24 Cutting Plotter.jpg)
