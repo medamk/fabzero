@@ -12,24 +12,25 @@ Mr.Franchie has briefed about the equipments.
 - Roland Cutting Plotter
 ![Roland](images/roland_gs24_cutting_plotter.jpg)
 
-- 2D Printer(FDM)
+- 3D Printer(FDM)
 ![Sindoh](images/3dwox.jpg)
 
 Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
 FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br><br>
+
 on 19th March 2019 10:00AM started the Session 
 
 - Installed visual Studio Code
-- Installed  Code Spell Checker in visual Studio Code
+- Installed Code Spell Checker in visual Studio Code
 - installed Inkscape.
 - installed Ultimate Cura.
 - installed Windows GIT
 - Linkage Windows GIT to visual Studio Code:
-        1. open New Window in visual Studio Code 
-        2. Copy the clone Address from github 
-        3. Control + Shift + P  
-        4. New address will open then type Git: Clone pate the clone address
+    ...   1. open New Window in visual Studio Code 
+    ...   2. Copy the clone Address from github 
+    ...   3. Control + Shift + P  
+    ...   4. New address will open then type Git: Clone pate the clone address
 
 
