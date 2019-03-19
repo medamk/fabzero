@@ -1,5 +1,7 @@
-This is Meda Muralikrishna. I am from STPI-Hyderabad. Working as Tech. Officer. 
-I got oprtunity getting training on FAB LAB Pre-Academy Programme at STPI-Bhubaneswar.
+This is Meda Muralikrishna. I am from STPI-Hyderabad. Working as Technical Officer. 
+I have complited my special diploma in Electronics and communication s from GIOE, Secuderabad. Then completed my B.tech in Electronics and Communication Engineering from JNTU-Hyderabad.
+I have joined in STPI on 16th Feb 2001. <br>
+I got opertinuty getting training on FAB LAB Pre-Academy Programme at STPI-Bhubaneswar from 18th March to 05th April 2019.<br>
 On 18th March 2019. This Pre-Academy training program is lanuched by Shri.Omkar Rai, DG, STPI.
 I met all other colleagues attending for the training.
 My traineers are Mr.Franchi and Mr.Sibu. Both are explaining well.
