@@ -12,11 +12,14 @@ FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
 WEN and DeWALT equipment.<br><br>
 on 19th March 2019 10:00AM started the Session 
-<ul> 
-<li>Installed visual Studio Code</li>
-<li>Installed  Code Spell Checker in visual Studio Code</li>
-<li>installed Inkscape.</li>
-<li>installed Ultimate Cura.</li>
-<li>installed Windows GIT</li>
-<li>Linkage Windows GIT to visual Studio Code: <br> 1. open New Window in visual Studio Code <br> 2. Copy the clone Address from github <br> 3. Control + Shift + P <br> 4. New address will open then type Git: Clone pate the clone address</li>
-</ul> 
+
+- Installed visual Studio Code
+- Installed  Code Spell Checker in visual Studio Code
+- installed Inkscape.
+- installed Ultimate Cura.
+- installed Windows GIT
+- Linkage Windows GIT to visual Studio Code:
+        1. open New Window in visual Studio Code 
+        2. Copy the clone Address from github 
+        3. Control + Shift + P  
+        4. New address will open then type Git: Clone pate the clone address
