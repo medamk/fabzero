@@ -16,9 +16,13 @@ Mr.Franchie has briefed about the equipments.
 ![Sindoh](images/3dwox.jpg)
 
 Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
-FORMLABS 3D printing device.<br>
-Shopboat wood cutter which runs at 14,000 rpm<br>
-WEN and DeWALT equipment.<br><br>
+
+
+FORMLABS 3D printing device.
+
+Shopboat wood cutter which runs at 14,000 rpm
+
+WEN and DeWALT equipment.<br>
 
 on 19th March 2019 10:00AM started the Session 
 
@@ -29,12 +33,12 @@ on 19th March 2019 10:00AM started the Session
 - installed Windows GIT
 - Linkage Windows GIT to visual Studio Code:
 
-..1. open New Window in visual Studio Code
+1. open New Window in visual Studio Code
 
-..2. Copy the clone Address from github 
+2. Copy the clone Address from github 
 
-..3. Control + Shift + P  
+3. Control + Shift + P  
 
-..4. New address will open then type Git: Clone pate the clone address
+4. New address will open then type Git: Clone pate the clone address
 
 
