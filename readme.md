@@ -6,7 +6,7 @@ My traineers are Mr.Franchi and Mr.Sibu. Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.
 Mr.Franchie has brifed about the equipments.
 Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
-FORMLABS 3D printing device.
-Shopboat wood cutter which runs at 14,000 rpm
-WEN and DeWALT equipment.
+FORMLABS 3D printing device.<br>
+Shopboat wood cutter which runs at 14,000 rpm<br>
+WEN and DeWALT equipment.<br>
 on 19th March 2019 installed Windows GIT.
