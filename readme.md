@@ -28,9 +28,13 @@ on 19th March 2019 10:00AM started the Session
 - installed Ultimate Cura.
 - installed Windows GIT
 - Linkage Windows GIT to visual Studio Code:
-...1. open New Window in visual Studio Code 
-...2. Copy the clone Address from github 
-...3. Control + Shift + P  
-...4. New address will open then type Git: Clone pate the clone address
+
+..1. open New Window in visual Studio Code
+
+..2. Copy the clone Address from github 
+
+..3. Control + Shift + P  
+
+..4. New address will open then type Git: Clone pate the clone address
 
 
