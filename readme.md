@@ -18,5 +18,5 @@ on 19th March 2019 10:00AM started the Session
 <li>installed Inkscape.</li>
 <li>installed Ultimate Cura.</li>
 <li>installed Windows GIT</li>
-<li>Linkage Windows GIT to visual Studio Code: <br> open New Window in visual Studio Code <br> Copy the clone Address from github <br> Control + Shift + P <br> New address will open then type Git: Clone pate the clone address</li>
+<li>Linkage Windows GIT to visual Studio Code: <br> 1. open New Window in visual Studio Code <br> 2. Copy the clone Address from github <br> 3. Control + Shift + P <br> 4. New address will open then type Git: Clone pate the clone address</li>
 </ul> 
