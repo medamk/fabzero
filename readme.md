@@ -1,5 +1,5 @@
 This is Meda Muralikrishna. I am from STPI-Hyderabad. Working as Technical Officer. 
-I have complited my special diploma in Electronics and communication s from GIOE, Secuderabad. Then completed my B.tech in Electronics and Communication Engineering from JNTU-Hyderabad.
+I have complited my special diploma in Electronics and communication s from GIOE, Secunderabad. Then completed my B.tech in Electronics and Communication Engineering from JNTU-Hyderabad.
 
 I have joined in STPI on 16th Feb 2001. 
 
@@ -58,5 +58,8 @@ Precautions to be taken for inserting the role into the Cutter
 2. Get the role from other end properly, adjust the role 
 ![Roland](images/gs24demo1.jpg)
 
-3. Fix the role where the white marker are given.
-![Roland](images/gs24demo3.jpg)
+3. Fix the Small rollers where the white marker are given.
+![Roland](images/gs24demo3.jpg) 
+
+
+Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
