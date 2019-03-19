@@ -58,5 +58,5 @@ Precautions to be taken for inserting the role into the Cutter
 2. Get the role from other end properly, adjust the role 
 ![Roland](images/gs24demo1.jpg)
 
-32 Fix the role where the white marker are given.
+3. Fix the role where the white marker are given.
 ![Roland](images/gs24demo3.jpg)
