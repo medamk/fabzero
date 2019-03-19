@@ -46,3 +46,6 @@ on 19th March 2019 10:00AM started the Session
 4. New address will open then type Git: Clone pate the clone address
 
 
+on 19th March 2019 03:00PM started the Session
+
+Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
