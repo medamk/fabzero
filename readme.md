@@ -5,8 +5,16 @@ I got opertinuty getting training on FAB LAB Pre-Academy Programme at STPI-Bhuba
 On 18th March 2019 at 11:00 AM This Pre-Academy training program has ben launched by Shri.Omkar Rai, DG, STPI. through VC from STPI-HQ <br>
 I met all other colleagues attending for the training programme from PAN India.
 My trainers are Mr.Franchies and Mr.Sibu. Both are explaining well.
+
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.
 Mr.Franchie has briefed about the equipments.
+
+- Roland Cutting Plotter
+![Roland](images/roland_gs24_cutting_plotter.jpg)
+
+- 2D Printer(FDM)
+![Sindoh](images/3dwox.jpg)
+
 Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
 FORMLABS 3D printing device.<br>
 Shopboat wood cutter which runs at 14,000 rpm<br>
@@ -24,4 +32,4 @@ on 19th March 2019 10:00AM started the Session
         3. Control + Shift + P  
         4. New address will open then type Git: Clone pate the clone address
 
-![Roland](images/roland_gs24_cutting_plotter.jpg)
+
