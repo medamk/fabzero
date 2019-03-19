@@ -17,5 +17,7 @@ on 19th March 2019 10:00AM started the Session
 <li>Installed  Code Spell Checker in visual Studio Code</li>
 <li>installed Inkscape.</li>
 <li>installed Ultimate Cura.</li>
-<li>installed Windows GIT.</li>
+<li>installed Windows GIT</li>
+<li>Linkage Windows GIT to visual Studio Code: <li> open Mew Window in visual Studio Code</li>
+</li>
 </ul> 
