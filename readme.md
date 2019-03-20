@@ -19,10 +19,12 @@ My trainers are Mr.Franchies and Mr.Sibu. Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.
 Mr.Franchie has briefed about the equipments.
 
-- Roland Cutting Plotter
+- Roland Cutting Plotter  
+
 ![Roland](images/roland_gs24_cutting_plotter.jpg)
 
-- 3D Printer(FDM)
+- 3D Printer(FDM)  
+
 ![Sindoh](images/3dwox.jpg)
 
 Roland, EPILOG LASER, PUREX, 3D WOX Printer, Weller heat gun and soldering rod.
