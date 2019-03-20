@@ -17,7 +17,7 @@ My trainers are Mr.Franchies and Mr.Sibu. Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.
 Mr.Franchie has briefed about the equipments.
 
-- [Roland Cutting Plotter](vinylcutter.md)
+- Roland Cutting Plotter
 ![Roland](images/roland_gs24_cutting_plotter.jpg)
 
 - 3D Printer(FDM)
@@ -55,15 +55,8 @@ on 19th March 2019 03:00PM started the Session
 Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
 Precautions to be taken for inserting the role into the Cutter
 
-
-1. Put the role on the two iron rods
-![Roland](images/gs24demo2.jpg)
-
-2. Get the role from other end properly, adjust the role 
-![Roland](images/gs24demo1.jpg)
-
-3. Fix the Small rollers where the white marker are given.
-![Roland](images/gs24demo3.jpg) 
+ - [Roland Cutting Plotter](vinylcutter.md)
+ 
 
 
 Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
