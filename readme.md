@@ -51,7 +51,20 @@ on 19th March 2019 10:00AM started the Session
 
 3. Control + Shift + P  
 
-4. New address will open then type Git: Clone pate the clone address
+4. New address will open then type Git: Clone pate the clone address  
+
+5. install Windows GIT. then automatically GIT Bash also will be installed and open GIT Bash
+
+admin@STPH13LP01 MINGW64 ~
+$ git config --global user.name medamk
+
+admin@STPH13LP01 MINGW64 ~
+$ git config --global user.email murali.krishna@stpi.in
+
+admin@STPH13LP01 MINGW64 ~
+$ git config --global user.email
+murali.krishna@stpi.in
+
 
 
 on 19th March 2019 03:00PM started the Session
