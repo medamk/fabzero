@@ -17,7 +17,7 @@ My trainers are Mr.Franchies and Mr.Sibu. Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms.
 Mr.Franchie has briefed about the equipments.
 
-- Roland Cutting Plotter
+- [Roland Cutting Plotter](vinylcutter.md)
 ![Roland](images/roland_gs24_cutting_plotter.jpg)
 
 - 3D Printer(FDM)
