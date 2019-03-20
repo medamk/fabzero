@@ -10,3 +10,7 @@
 3. Fix the Small rollers where the white marker are given.  
 
 ![Roland](images/gs24demo3.jpg) 
+
+4. Take the Content to be printed and save as png file.  
+
+5. open the website http://fabmodules.org/ to convert into .camm file
