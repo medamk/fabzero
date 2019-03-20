@@ -11,7 +11,7 @@
 
 ![Roland](images/gs24demo3.jpg) 
 
-4. Take the Content to be printed and save as png file.  
+4. open inkscape application. and enter the text. Take the Content to be printed and save as png file.  
 
 5. open the website http://fabmodules.org/ to convert into .camm file  
 
@@ -23,6 +23,8 @@
 
 8. Goto the Roland Vinyl cutter and set the origin as per the printing material.  
 
-9. set print.
+9. set print.  
+
+10. output![Roland](images/gs24demo5.jpg)
 
 
