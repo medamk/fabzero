@@ -78,3 +78,12 @@ Precautions to be taken for inserting the role into the Cutter
 Given Demo on Sindohe 3D WOX 3D Printer
  
  - [sindohe 3D WOX](sindohedwox.md)
+
+ Installed KICAD 5 Application for PCB Making.  
+
+ - open the KICAD application  
+ - File --> NEW
+ - Click on Schematic Layout Editor
+ - New Eeschema will open. then Select the components and Voltages with Proper connections.
+ - Perform Electronic Rules Check. If there is No Errors
+ - Then click on assign PCB footprints
