@@ -75,5 +75,6 @@ Precautions to be taken for inserting the role into the Cutter
  - [Roland Cutting Plotter](vinylcutter.md)
  
 
-
-Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
+Given Demo on Sindohe 3D WOX 3D Printer
+ 
+ - [sindohe 3D WOX](sindohedwox.md)
