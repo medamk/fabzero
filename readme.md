@@ -74,24 +74,10 @@ Precautions to be taken for inserting the role into the Cutter
 
  - [Roland Cutting Plotter](vinylcutter.md)
  
-
 Given Demo on Sindohe 3D WOX 3D Printer
  
  - [sindohe 3D WOX](sindohedwox.md)
 
- Installed KICAD 5 Application for PCB Making.  
-
- - open the KICAD application  
- - File --> NEW
- - Click on Schematic Layout Editor
- - New Eeschema will open. then Select the components and Voltages with Proper 
- connections. 
-
-![kicad](images/kicadsch.jpg)
- - Perform Electronic Rules Check. If there is No Errors
- - Then click on assign PCB footprints
- - Assign the Components from footprint libraries  
-
-![kicad](images/kicadfp.jpg)
-
- - Save and Press F8
+Given Demo on MonoFAB SRM-20 Desktop Milling Machine
+ 
+ - [Roland DGA](monofabsrm20.md)
