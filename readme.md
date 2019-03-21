@@ -93,3 +93,5 @@ Given Demo on Sindohe 3D WOX 3D Printer
  - Assign the Components from footprint libraries  
 
 ![kicad](images/kicadfp.jpg)
+
+ - Save and Press F8
