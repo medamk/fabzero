@@ -91,5 +91,5 @@ Given Demo on Sindohe 3D WOX 3D Printer
  - Perform Electronic Rules Check. If there is No Errors
  - Then click on assign PCB footprints
  - Assign the Components from footprint libraries  
- 
-![kicad](images/kicadsfp.jpg)
+
+![kicad](images/kicadfp.jpg)
