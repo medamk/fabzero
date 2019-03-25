@@ -15,3 +15,5 @@
 ![kicad](images/kicadfp.jpg)
 
  - Save and Press F8
+ - Give the all connections and  border
+ ![kicad](images/pcblayout.jpg)
