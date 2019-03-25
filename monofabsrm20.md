@@ -17,3 +17,6 @@
  - Save and Press F8
  - Give the all connections and  border
  ![kicad](images/pcblayout.jpg)
+ - Click on Plot. Select F.cu and Edge.cuts only
+ - Select negative plot and mirored plot
+ ![kicad](images/plot3d.jpg)
