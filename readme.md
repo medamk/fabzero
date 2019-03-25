@@ -81,6 +81,8 @@ Given Demo on MonoFAB SRM-20 Desktop Milling Machine
  
  - [Roland DGA](monofabsrm20.md)
 
+Sense 3D scanner
+
  - Supply Vs Demand Time
  - FREE CAD 3D
  - KICAD --> PNG
