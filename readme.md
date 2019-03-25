@@ -36,7 +36,7 @@ Shopboat wood cutter which runs at 14,000 rpm
 
 WEN and DeWALT equipment.<br>
 
-on 19th March 2019 10:00AM started the Session 
+Insatllations:  
 
 - Installed visual Studio Code
 - Installed Code Spell Checker in visual Studio Code
@@ -66,7 +66,7 @@ admin@STPH13LP01 MINGW64 ~
 $ git config --global user.email 
 ```
 
-on 19th March 2019 03:00PM started the Session
+## Demo Session
 
 Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
 Precautions to be taken for inserting the role into the Cutter
