@@ -59,12 +59,10 @@ admin@STPH13LP01 MINGW64 ~
 $ git config --global user.name medamk
 
 admin@STPH13LP01 MINGW64 ~
-$ git config --global user.email murali.krishna@stpi.in
+$ git config --global user.email 
 
 admin@STPH13LP01 MINGW64 ~
-$ git config --global user.email
-murali.krishna@stpi.in
-
+$ git config --global user.email 
 
 
 on 19th March 2019 03:00PM started the Session
