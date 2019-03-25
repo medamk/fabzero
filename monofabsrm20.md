@@ -23,7 +23,7 @@
 
 - then two files will be saved in.svg files.
 - open each .svg file in inkscape application. Then Export in .PNG file.
-- open the website http://fabmodules.org/ to convert into .camm file  
+- open the website http://fabmodules.org/ to convert into .rml file  
 - input the .png file. Select the Roland mill and PCB Trace(1/64). then save the file
 ![kicad](images/millstrace.jpg)
 
