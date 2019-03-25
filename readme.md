@@ -55,6 +55,7 @@ on 19th March 2019 10:00AM started the Session
 
 5. install Windows GIT. then automatically GIT Bash also will be installed and open GIT Bash
 
+```javascript
 admin@STPH13LP01 MINGW64 ~
 $ git config --global user.name medamk
 
@@ -63,7 +64,7 @@ $ git config --global user.email
 
 admin@STPH13LP01 MINGW64 ~
 $ git config --global user.email 
-
+```
 
 on 19th March 2019 03:00PM started the Session
 
