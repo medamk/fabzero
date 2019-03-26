@@ -7,11 +7,10 @@ The Roland GX-24 CAMM-1 is a drag knife cutter. You can feed the machine vinyl s
 
 ## Links
 
-Video Demo: [Youtube Video](https://www.youtube.com/watch?v=MMMydDwluRM)
+Video Demo: [Youtube Video](https://www.youtube.com/watch?v=YmTvGLliGmw)
 
-[Roland GS-24: Cutting Vinyl Start to Finish](https://www.youtube.com/watch?v=cgqfQxDR6pU)
+[Download Software and Manuals](https://www.3dsystems.com/shop/sense/downloads)
 
-[How to use the Roland GX-24](http://wiki.fablab.is/wiki/How_to_use_the_Roland_GX-24)
 
 
 
