@@ -13,6 +13,7 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=MMMydDwluRM)
 
 [How to use the Roland GX-24](http://wiki.fablab.is/wiki/How_to_use_the_Roland_GX-24)
 
+[Download Software and Manuals](https://www.rolanddga.com/support/products/cutting/camm-1-gs-24-24-desktop-vinyl-cutter)
 
 
 ## Workshop
