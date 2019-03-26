@@ -71,12 +71,10 @@ $ git config --global user.email
  - [Roland CAMM1 GS-24 desktop cutter](vinylcutter.md)
  
  - [Sindoh 3DWOX DP200 3D Printer](sindohedwox.md)
-
-Given Demo on MonoFAB SRM-20 Desktop Milling Machine
  
- - [Roland DGA](monofabsrm20.md)
+ - [Roland DGA MonoFAB SRM-20 Desktop Milling Machine](monofabsrm20.md)
 
-Sense 3D scanner
+ - [Sense 3D scanner](sense3dscan.md)
 
  - Supply Vs Demand Time
  - FREE CAD 3D
