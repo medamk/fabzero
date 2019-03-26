@@ -68,10 +68,7 @@ $ git config --global user.email
 
 ## Demo Session
 
-Given Demo on ROLAND CAMM-1 GS-24 Desktop Cutter
-Precautions to be taken for inserting the role into the Cutter
-
- - [Roland Cutting Plotter](vinylcutter.md)
+ - [Roland CAMM1 GS-24 desktop cutter](vinylcutter.md)
  
 Given Demo on Sindohe 3D WOX 3D Printer
  
