@@ -1,4 +1,23 @@
+# Roland monoFab SRM-20 Desktop Milling Machine
 
+## Overview
+The Roland GX-24 CAMM-1 is a drag knife cutter. You can feed the machine vinyl sticker material for creating custom sized stickers. You can also feed it copper sticker material, useful for flexible circuits or antenna design. The machine can take a material on roll or a piece with the maximum width of 58 centimeters. You will need to prepare a vector graphics file in the shape you want to cut. 
+
+![Roland](images/srm20.jpg)
+
+## Links
+
+Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
+
+[Milling](https://wiki.oulu.fi/display/FLOWS/Milling)
+
+[PCBs with SRM-20](http://archive.fabacademy.org/archives/2017/doc/srm20.html)
+
+
+[Download Software and Manuals](https://www.rolanddga.com/products/3d/srm-20-small-milling-machine)
+
+
+## Workshop
  Installed KICAD 5 Application for PCB Making.  
 
  - open the KICAD application  

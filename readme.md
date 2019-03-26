@@ -76,10 +76,5 @@ $ git config --global user.email
 
  - [Sense 3D scanner](sense3dscan.md)
 
- - Supply Vs Demand Time
- - FREE CAD 3D
- - KICAD --> PNG
- - Documentation
- - Programing
- - 3D Scanning
- - Molding & Cast
+ - [Fab Lab Oulu Wiki Space](https://wiki.oulu.fi/display/FLOWS/About+Fab+Lab+Oulu)
+
