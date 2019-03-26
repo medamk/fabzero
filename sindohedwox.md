@@ -6,6 +6,8 @@
 ## Links
 
 Video Demo: [Youtube Video](https://www.youtube.com/watch?v=6N3RZ3_pfWE)
+
+[Download Software & Manuals](https://3dprinter.sindoh.com/support/downloads/DP200)
 ## Workshop
 
 1. Install 3D WOX software.  
