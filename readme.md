@@ -70,9 +70,7 @@ $ git config --global user.email
 
  - [Roland CAMM1 GS-24 desktop cutter](vinylcutter.md)
  
-Given Demo on Sindohe 3D WOX 3D Printer
- 
- - [sindohe 3D WOX](sindohedwox.md)
+ - [Sindoh 3DWOX DP200 3D Printer](sindohedwox.md)
 
 Given Demo on MonoFAB SRM-20 Desktop Milling Machine
  
