@@ -49,3 +49,4 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 
 - input the .png file. Select the Roland mill and PCB outline(1/32). then save the file
 ![kicad](images/millscut.jpg)
+- Install [VPanel for SRM-20](https://startup.rolanddg.com/monoFab/SRM-20/SRM-20_EN/On/sp-srm_about-apps_on_en.html) Application
