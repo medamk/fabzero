@@ -21,6 +21,7 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
  Installed KICAD 5 Application for PCB Making.  
 
  - open the KICAD application  
+ - ![kicad](images/kicadopen.jpg)
  - File --> NEW
  - Click on Schematic Layout Editor
  - New Eeschema will open. then Select the components and Voltages with Proper 
