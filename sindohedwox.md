@@ -2,8 +2,10 @@
 
 ## Overview
 
+![Sindoh](images/3dwoxdp200.jpg)
 ## Links
 
+Video Demo: [Youtube Video](https://www.youtube.com/watch?v=6N3RZ3_pfWE)
 ## Workshop
 
 1. Install 3D WOX software.  
