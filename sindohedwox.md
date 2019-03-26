@@ -23,3 +23,5 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=6N3RZ3_pfWE)
 5. Adject the Scale and Calculate the time. 
 
 6. then Print the Object.
+
+or Download [FreeCAD](https://www.freecadweb.org/wiki/Download). with this application you can 3D objects and print.
