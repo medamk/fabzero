@@ -1,0 +1,21 @@
+# ShopBot
+
+## Overview
+The Sense 3D scanner delivers best-in-class accuracy of close to 1 mm with resolution at 1 mm.
+Life goes on
+Sense has an unprecedented color resolution of 1920 x 1080 pixels for perfect color texture mapping.
+Zero in
+Sense has a generous scan range of between 7 and 72 inches to allow for rapid 3D scanning of a wide range of objects.
+Capture
+The Sense 3D scanner includes software to rapidly edit your 3D scan data and solidify for immediate 3D printing.
+Life is Better
+Save data out to four industry standard formats: OBJ, WRL, STL, and PLY, for downstream uses. 
+
+![RolandSense](images/shopbot1.jpg)
+
+## Links
+
+Video Demo1: [Youtube Video](https://www.youtube.com/watch?v=g7QI_q2ntdo)
+Video Demo2: [Youtube Video](https://www.youtube.com/watch?v=_XiCnMQyi-4)
+
+[Download Software and Manuals](https://www.3dsystems.com/shop/sense/downloads)
