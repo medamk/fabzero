@@ -78,3 +78,5 @@ $ git config --global user.email
 
  - [Fab Lab Oulu Wiki Space](https://wiki.oulu.fi/display/FLOWS/About+Fab+Lab+Oulu)
 
+- [archive.fabacademy](http://archive.fabacademy.org/2018/labs/fablabberytech/students/ghassan-beydoun/WeeklyMain.html)
+
