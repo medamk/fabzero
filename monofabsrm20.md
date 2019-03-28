@@ -50,3 +50,19 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 - input the .png file. Select the Roland mill and PCB outline(1/32). then save the file
 ![kicad](images/millscut.jpg)
 - Install [VPanel for SRM-20](https://startup.rolanddg.com/monoFab/SRM-20/SRM-20_EN/On/sp-srm_about-apps_on_en.html) Application
+
+- Put the (1/64) bit into the machine.
+- Put the User Coordinate and adjust the coordinate.
+- then put into machine coordinates and record for the save purpose.
+- Then Put the User Coordinate and set origin.
+- X/Y set 0 and Z set to 0
+- Then the adjust the bit to touch the board.
+- put Z to 2mm Up
+- then press trace. delete all files and choose the trace.rml file
+- then press output
+- after trace remove the bit and replace (/1/32) bit.
+- to origin click xy. Then Z set 0
+- Then the adjust the bit to touch the board.
+- put Z to 2mm Up
+- then press Cut. delete all files and choose the cut.rml file
+- then press output.
