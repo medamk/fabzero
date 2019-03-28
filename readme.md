@@ -74,6 +74,8 @@ $ git config --global user.email
  
  - [Roland DGA MonoFAB SRM-20 Desktop Milling Machine](monofabsrm20.md)
 
+ - [Shopbot ](shopbot.md)
+
  - [Sense 3D scanner](sense3dscan.md)
 
  - [Fab Lab Oulu Wiki Space](https://wiki.oulu.fi/display/FLOWS/About+Fab+Lab+Oulu)
