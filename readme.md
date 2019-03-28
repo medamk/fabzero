@@ -38,7 +38,7 @@ WEN and DeWALT equipment.<br>
 
 ## Insatllations:  
 
-- Installed [visual Studio Code](https://code.visualstudio.com/download)
+- Installed [visual Studio Code](https://code.visualstudio.com/download) ! [operation](vsc.md)
 - installed [Inkscape](https://inkscape.org/release/inkscape-0.92.4/).
 - installed [Ultimate Cura](https://ultimaker.com/en/products/ultimaker-cura-software).
 - installed [GIT GUI](https://git-scm.com/downloads) ! [operation](gui.md)
