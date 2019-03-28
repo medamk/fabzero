@@ -36,9 +36,9 @@ Shopboat wood cutter which runs at 14,000 rpm
 
 WEN and DeWALT equipment.<br>
 
-Insatllations:  
+## Insatllations:  
 
-- Installed visual Studio Code
+- Installed [visual Studio Code](https://code.visualstudio.com/download)
 - Installed Code Spell Checker in visual Studio Code
 - installed Inkscape.
 - installed Ultimate Cura.
