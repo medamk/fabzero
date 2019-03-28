@@ -3,7 +3,7 @@
 ## Overview
  
 
-![RolandSense](images/shopbot1.jpg)
+![RolandSense](images/Formlabs1.jpg)
 
 ## Links
 
