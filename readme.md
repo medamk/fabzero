@@ -55,9 +55,12 @@ WEN and DeWALT equipment.<br>
 
  - [Shopbot ](shopbot.md)
 
+ 
  - [FromLabs Form 2 Desktop 3D Printer ](formlabs.md)
 
  - [Sense 3D scanner](sense3dscan.md)
+
+## Important Links
 
  - [Fab Lab Oulu Wiki Space](https://wiki.oulu.fi/display/FLOWS/About+Fab+Lab+Oulu)
 
