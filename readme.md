@@ -40,9 +40,9 @@ WEN and DeWALT equipment.<br>
 
 - Installed [visual Studio Code](https://code.visualstudio.com/download)
 - Installed Code Spell Checker in visual Studio Code
-- installed Inkscape.
+- installed [Inkscape](https://inkscape.org/release/inkscape-0.92.4/).
 - installed Ultimate Cura.
-- installed Windows GIT
+- installed [GIT GUI](https://git-scm.com/downloads)
 - Linkage Windows GIT to visual Studio Code:
 
 1. open New Window in visual Studio Code
@@ -65,6 +65,8 @@ $ git config --global user.email
 admin@STPH13LP01 MINGW64 ~
 $ git config --global user.email 
 ```
+- Installed [FreeCAD](https://www.freecadweb.org/wiki/Download)
+- Installed [KiCAD](http://kicad-pcb.org/download/)
 
 ## Demo Session
 
