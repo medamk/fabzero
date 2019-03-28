@@ -39,9 +39,8 @@ WEN and DeWALT equipment.<br>
 ## Insatllations:  
 
 - Installed [visual Studio Code](https://code.visualstudio.com/download)
-- Installed Code Spell Checker in visual Studio Code
 - installed [Inkscape](https://inkscape.org/release/inkscape-0.92.4/).
-- installed Ultimate Cura.
+- installed [Ultimate Cura](https://ultimaker.com/en/products/ultimaker-cura-software).
 - installed [GIT GUI](https://git-scm.com/downloads) ! [operation](gui.md)
 - Installed [FreeCAD](https://www.freecadweb.org/wiki/Download)
 - Installed [KiCAD](http://kicad-pcb.org/download/)
