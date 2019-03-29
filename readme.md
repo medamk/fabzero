@@ -53,6 +53,8 @@ WEN and DeWALT equipment.<br>
  
  - [Roland DGA MonoFAB SRM-20 Desktop Milling Machine](monofabsrm20.md)
 
+ - [Epilog Laser Fusion M2](epilogm2.md)
+
  - [Shopbot ](shopbot.md)
 
  
