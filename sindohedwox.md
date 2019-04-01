@@ -63,6 +63,9 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=6N3RZ3_pfWE)
 
 6. then Print the Object.
 
+7. output as below
+![Sindhoe](images/3dwox2.jpg) 
+
 or Download [FreeCAD](https://www.freecadweb.org/wiki/Download). with this application you can create 3D objects and print.
 
 or Download [OpenSCAD](http://www.openscad.org/downloads.html). with this application also you can create 3D objects and print.

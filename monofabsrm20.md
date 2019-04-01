@@ -66,3 +66,6 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 - put Z to 2mm Up
 - then press Cut. delete all files and choose the cut.rml file
 - then press output.
+- output is milled as below
+
+![Roland](images/srm201.jpg)
