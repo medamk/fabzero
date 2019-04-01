@@ -11,7 +11,7 @@ I got opertinuty getting training on FAB LAB Pre-Academy Programme at STPI-Bhuba
 
 On 18th March 2019 at 11:00 AM This Pre-Academy training program has ben launched by Shri.Omkar Rai, DG, STPI. through VC from STPI-HQ 
 
-
+![Murali](images/murali.jpg)
 
 I met all other colleagues attending for the training programme from PAN India.
 My trainers are Mr.Franchies and Mr.Sibu. Both are explaining well.
