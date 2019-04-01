@@ -1,8 +1,7 @@
 # Epilog Laser Fusion M2 Engraving & Cutting System
 
 ## Overview
-any natural material we can cut
-
+Very carefull with Power and Speed. any natural material we can cut
 
 
 ![RolandSense](images/fusion1.jpg)

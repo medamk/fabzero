@@ -19,4 +19,8 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=YmTvGLliGmw)
 
 [Download Software and Manuals](https://www.3dsystems.com/shop/sense/downloads)
 
+## Workshop
+Scanned withe Sense 3D Scanner. Printed with Sindoh 3DWOX DP200 3D Printer
+![RolandSense](images/3dsense1.jpg)
+
 
