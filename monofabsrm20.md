@@ -41,8 +41,10 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 
  - Give the all connections and  border
  ![kicad](images/pcblayout.jpg)
+ ![kicad](images/kicadcut1.jpg)
+
  - Click on Plot. Select F.cu and Edge.cuts only
- - Select negative plot and mirrored plot. Then Click on Plot.
+ - Select as below. Then Click on Plot.
  ![kicad](images/plot3d.jpg)
 
 - then two files will be saved in.svg files.
