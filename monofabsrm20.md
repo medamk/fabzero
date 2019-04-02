@@ -34,7 +34,7 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 
 ![kicad](images/kicadfp.jpg)
 
- - Save and Press F8
+ -generate Netlist and Press F8
  - Give the all connections and  border
  ![kicad](images/pcblayout.jpg)
  - Click on Plot. Select F.cu and Edge.cuts only
