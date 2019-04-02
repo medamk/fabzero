@@ -16,6 +16,7 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
 
 [Download Software and Manuals](https://www.rolanddga.com/products/3d/srm-20-small-milling-machine)
 
+[Eagle Software Download](https://www.autodesk.com/products/eagle/free-download#)
 
 ## Workshop
  Installed KICAD 5 Application for PCB Making.  
