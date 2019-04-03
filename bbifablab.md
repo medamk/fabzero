@@ -1,7 +1,9 @@
 ## STPI-Bhubaneswar Fab Lab
 
-![Fab Lab](images/bbi/bbi1.jpg)
-![Fab Lab](images/bbi/bbi2.jpg)
+![Fab Lab](images/bbi/bbi1.jpg)  
+
+![Fab Lab](images/bbi/bbi2.jpg)  
+
 ![Fab Lab](images/bbi/bbi3.jpg)
 ![Fab Lab](images/bbi/bbi4.jpg)
 ![Fab Lab](images/bbi/bbi5.jpg)
