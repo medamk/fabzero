@@ -40,9 +40,9 @@ Video Demo: [Youtube Video](https://www.youtube.com/watch?v=3UF_cDjEkYk)
  ![kicad](images/boardsetup.jpg)
 
  - Give the all connections and  border
- ![kicad](images/pcblayout.jpg)
+ 
  ![kicad](images/kicadcut1.jpg)
-
+![kicad](images/pcblayout.jpg)
  - Click on Plot. Select F.cu and Edge.cuts only
  - Select as below. Then Click on Plot.
  ![kicad](images/plot3d.jpg)
