@@ -1,6 +1,6 @@
 ## STPI-Bhubaneswar Fab Lab
 
-![FabLab](images/bbi/bbi1.jpg)  
+![FabLab](/images/bbi/bbi1.jpg)  
 
 ![FabLab](images/bbi/bbi2.jpg)  
 
