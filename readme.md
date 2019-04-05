@@ -21,6 +21,9 @@ Mr.Franchie has briefed about the equipments.
 
 [STPI-Bhubaneswar Fab Lab Details](bbifablab.md)
 
+
+![Project](images/Network_Alaram.wav)
+
 - Roland Cutting Plotter  
 
 ![Roland](images/roland_gs24_cutting_plotter.jpg)
